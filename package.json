@@ -1,5 +1,5 @@
 {
-  "name": "gorgeous",
+  "name": "@onroi/gorgeous",
   "version": "1.0.0",
   "description": "Gorgeous tailwind plugins",
   "main": "plugins.js",
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/OnROI/gorgeous#readme",
   "dependencies": {
     "chroma-js": "^2.1.0"
-  }
+  },
+  "devDependencies": {}
 }
