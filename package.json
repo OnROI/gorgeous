@@ -1,0 +1,22 @@
+{
+  "name": "gorgeous",
+  "version": "1.0.0",
+  "description": "Gorgeous tailwind plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnROI/gorgeous.git"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "Sam Snelling",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/OnROI/gorgeous/issues"
+  },
+  "homepage": "https://github.com/OnROI/gorgeous#readme"
+}
