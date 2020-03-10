@@ -1,0 +1,16 @@
+module.exports = {
+    backgroundColor: ['responsive', 'odd', 'hover', 'focus', 'active', 'disabled', 'dark'],
+    backgroundPosition: ['responsive'],
+    backgroundRepeat: ['responsive'],
+    backgroundSize: ['responsive'],
+    borderColor: ['responsive', 'hover', 'focus', 'active', 'disabled', 'dark'],
+    borderRadius: ['responsive', 'first', 'last'],
+    borderWidth: ['responsive', 'first', 'last'],
+    boxShadow: ['responsive', 'hover', 'focus', 'active'],
+    cursor: ['responsive', 'hover', 'disabled'],
+    opacity: ['responsive', 'hover', 'focus', 'active', 'disabled'],
+    pointerEvents: ['responsive', 'disabled'],
+    textColor: ['responsive', 'hover', 'focus', 'active', 'disabled', 'dark'],
+    gradients: ['responsive', 'hover', 'active'],
+    zIndex: ['responsive', 'focus'],
+};

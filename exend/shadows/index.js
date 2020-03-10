@@ -1,0 +1,15 @@
+module.exports = {
+    'inner-md': 'inset 0 0.15em 0.3em rgba(0,0,0,0.15)',
+    'outline-primary': '0 0 0 3px var(--color-primary-alpha-200)',
+    'outline-secondary': '0 0 0 3px var(--color-secondary-alpha-200)',
+    'outline-gray': '0 0 0 3px var(--color-gray-alpha-200)',
+    'outline-red': '0 0 0 3px var(--color-red-alpha-200)',
+    'outline-orange': '0 0 0 3px var(--color-orange-alpha-200)',
+    'outline-yellow': '0 0 0 3px var(--color-yellow-alpha-200)',
+    'outline-green': '0 0 0 3px var(--color-green-alpha-200)',
+    'outline-teal': '0 0 0 3px var(--color-teal-alpha-200)',
+    'outline-blue': '0 0 0 3px var(--color-blue-alpha-200)',
+    'outline-indigo': '0 0 0 3px var(--color-indigo-alpha-200)',
+    'outline-purple': '0 0 0 3px var(--color-purple-alpha-200)',
+    'outline-pink': '0 0 0 3px var(--color-pink-alpha-200)',
+};
