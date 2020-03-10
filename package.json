@@ -2,7 +2,7 @@
   "name": "gorgeous",
   "version": "1.0.0",
   "description": "Gorgeous tailwind plugins",
-  "main": "index.js",
+  "main": "plugins.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/OnROI/gorgeous/issues"
   },
-  "homepage": "https://github.com/OnROI/gorgeous#readme"
+  "homepage": "https://github.com/OnROI/gorgeous#readme",
+  "dependencies": {
+    "chroma-js": "^2.1.0"
+  }
 }
