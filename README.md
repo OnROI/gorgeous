@@ -1,6 +1,10 @@
 # gorgeous
 
 ```
+yarn add @onroi/gorgeous
+```
+
+```
 module.exports = {
   theme: {
     colors: {
@@ -13,7 +17,6 @@ module.exports = {
     ...require('@onroi/gorgeous/core/plugins')
   },
   plugins: [
-    require('@tailwindcss/ui'),
     ...require('@onroi/gorgeous/plugins'),
 
     require('@onroi/gorgeous/plugins/theme')({
